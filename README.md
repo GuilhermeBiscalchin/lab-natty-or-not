@@ -10,7 +10,8 @@ Breve resumo da história do jiu-jitsu brasileiro, como surgiu essa modalidade.
 Usado a Claude para relatório da história, com o avatar e voz do HeyGen.
 
 ## 🧐 Processo de Criação
-Claude, fez um resumo da história para 1 minuto, e sincronizei com o avatar no Heygen para gerar o video
+Claude, fez um resumo da história para 1 minuto,
+ e sincronizei com o avatar no Heygen para gerar o video
 
 
 ```
